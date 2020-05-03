@@ -1,0 +1,25 @@
+>>> empl1 = "Mar"  // asigan valor
+>>> empl1  // muestra el valor
+'Mar'
+>>> empl2 = " jose"
+>>> empl3 = " juan"
+>>> empl3
+' juan'
+>>> empl2
+' jose'
+>>>
+---------------------------------------------------------------------------------
+>>> empl1,empl2,empl3 = "Marian", "Ruben", "Carmen"
+>>> empl2
+'Ruben'
+>>> empl3
+'Carmen'
+>>> empl1
+'Marian'
+----------------------------------------------------------------------------------
+> empl1=empl2=empl3="Holis"
+>>> empl1
+'Holis'
+
+print ('hello world')
+hello world

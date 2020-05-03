@@ -1,0 +1,16 @@
+>>> age = 15
+>>> type(age)  // nos ayuda a ver el tipo de variable que es
+<class 'int'>
+
+
+>>> uno=4
+>>> dos=8
+>>> tres = uno + dos
+>>> tres
+12
+
+>>> name = "Mar"
+>>> last = "Medina"
+>>> complete = name + " " + last
+>>> complete
+'Mar Medina

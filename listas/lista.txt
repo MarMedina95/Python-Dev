@@ -1,0 +1,4 @@
+miLista = ["uno", "dos", "tres", "cuatro"]
+#imprimir la lista completa sin un for
+print(miLista[:])
+print(miLista[2])
